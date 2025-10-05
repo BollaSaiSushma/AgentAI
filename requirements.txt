@@ -1,0 +1,11 @@
+pypdf==4.3.1
+sentence-transformers==3.0.1
+pymilvus==2.4.6
+qdrant-client==1.8.2
+pinecone-client==5.0.1
+pymongo==4.8.0
+tqdm==4.66.4
+pymupdf==1.24.9
+python-dotenv==1.0.1
+faiss-cpu==1.8.0.post1
+chromadb==0.5.5
